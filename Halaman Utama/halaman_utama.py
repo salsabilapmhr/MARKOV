@@ -146,14 +146,14 @@ elif menu == "About Us":
                 "nama": "A",
                 "sebagai": "Pak Lurah",
                 "nim": "122450000",
-                "fun_fact": "nyemilin es bato",
+                "fun_fact": "nyemilin es batog",
                 "motto_hidup": "Ya apa ya",
             },
             {
                 "nama": "B",
                 "sebagai": "Bu Lurah",
                 "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
+                "fun_fact": "nyemilin es bato",
                 "motto_hidup": "Ya apa ya",
             },
             {
